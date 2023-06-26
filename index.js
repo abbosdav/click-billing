@@ -1,4 +1,6 @@
 const crypto = require("crypto");
+
+
 class Click{
     constructor(options){
         this.options = options;
